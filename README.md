@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/search?q=programmer+banner&sxsrf=ALeKk037SbSo0m65c17ZdADJLkYyibCD1g:1608277283809&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjKmc7hg9ftAhXDzDgGHbe3B6AQ_AUoAXoECBAQAw&biw=1440&bih=789#imgrc=Q-UW7ZgCAxzPFM)
 
 <!--
 **nagarajmanjunath/nagarajmanjunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
