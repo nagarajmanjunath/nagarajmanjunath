@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg)
+![Header](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg)
 
 <!--
 **nagarajmanjunath/nagarajmanjunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
