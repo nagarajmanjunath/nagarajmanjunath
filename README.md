@@ -1,7 +1,7 @@
 
 ### Hello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-My name is Nagaraj and I'm a Lead blockchain developer/Consultant from India.  
+My name is Nagaraj and I'm a Blockchain Tech Lead/Consultant from India.  
 You can find me on: [![linkedin](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)][1]  
 
 [1]:https://www.linkedin.com/in/nagaraj-m-25264b10a/
